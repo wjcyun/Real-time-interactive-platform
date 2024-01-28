@@ -79,9 +79,12 @@ If you want to get the C program, you can open CONTROL.uvprojx in the USER folde
 
 > **Other codes descriptions**
 >Main function: USER\main.c
-Serial communication: HARDWARE\serial\serial.c
-Pid control: HARDWARE\PID\pid.c
-PWM wave: HARDWARE\TIMER\timer.c
+> 
+>Serial communication: HARDWARE\serial\serial.c
+> 
+>Pid control: HARDWARE\PID\pid.c
+> 
+>PWM wave: HARDWARE\TIMER\timer.c
 
 ## Hardware
 If you want to control the servo motor driver from STM32, you can refer to the following circuit design.
@@ -93,9 +96,13 @@ If you want to control the servo motor driver from STM32, you can refer to the f
 Ports PE6 and PE7 in the STM32 give direction and velocity signal, respectively, which are passed through an amplifier circuit to ports 43 and 39 of the servo motor driver.
 
 ## Other files
-
 >Data
+>
 >difficulty of 15cms
+>
 >difficulty of 22.5cms
+>
 >difficulty of 30cms
+>
 >Supplementary
+>
