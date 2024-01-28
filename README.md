@@ -1,5 +1,5 @@
 # Real-time-interactive-platform
-Dynamic decision making during predatory pursuit in rodents.
+Predatory pursuit in rodents.
 ## Background
 
 ` Technical summary：Spyder python C# STM32 Keil`
