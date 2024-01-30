@@ -104,5 +104,6 @@ Ports PE6 and PE7 in the STM32 give direction and velocity signal, respectively,
 >
 >difficulty of 30cms
 >
->Supplementary
+>Hardware-configuration
 >
+
