@@ -72,6 +72,21 @@ If you want to determine the conversion between distances in an image and actual
 You can also use the following program to get the HSV gamut range of the target object.
 > Recognizing HSV.py
 
+You can use this program to reset the robot bait (back to the center area of the arena).
+> Reset program.py
+
+Robot bait will prioritize a straight line escape strategy.
+> Co_directional escape strategy.py
+
+Robot bait will prioritize vertical turns for escape strategies.
+> Perpendicular escape strategy.py
+
+Robot bait randomly selects escape strategy every 10 frames.
+> Random escape strategy.py
+
+To attract the attention of mice, a robotic bait unexpectedly reciprocates at a warning distance.
+> Reciprocating movement.py
+
 
 If you want to get the C program, you can open CONTROL.uvprojx in the USER folder from Keil. It can receive speed and direction information from python and decode it into an analog signal to drive servo motors.
 > **USER**
